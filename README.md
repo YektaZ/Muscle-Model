@@ -13,3 +13,5 @@ Cost: Square rate of force in the muscles J = u^2
 Constrains: starting and ending point / zero initial and final velocity
 
 Optimizer: algorithm = 'active-set';
+
+Open the OpenMe files for more details on the model. 
