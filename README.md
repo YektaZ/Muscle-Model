@@ -14,4 +14,4 @@ Constrains: starting and ending point / zero initial and final velocity
 
 Optimizer: algorithm = 'active-set'
 
-# Open the OpenMe files for more details on the model. 
+## Open the OpenMe files for more details on the model. 
